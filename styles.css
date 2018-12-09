@@ -21,6 +21,7 @@ nav {
   padding: 10px 100px;
   box-sizing: border-box;
   transition: .3s;
+  background: rgba(0, 0, 0, 0.8);
 }
 nav.black {
   background: rgba(0, 0, 0, 0.8);
@@ -30,10 +31,11 @@ nav.black {
 
 nav .logo {
   padding: 22px 20px;
-  height: 80px;
+  height: 10px;
   float: left;
   font-size: 24px;
   transition: .3s;
+  text-shadow: 3px 3px 9px #FF0000;
 }
 nav.black .logo {
   color: #fff;
@@ -73,7 +75,7 @@ nav ul li a.active {
 }
 
 .content {
-  margin-top: 80px
+  margin-top: 10%;
 }
 
 .content p {
