@@ -18,6 +18,22 @@ body {
   margin-bottom: 30px;
 }
 
+.lela {
+  margin-right: 1px;
+}
+
+h2 {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.hjk {
+  margin-left: 30%;
+  margin-right: 30%;
+  background: rgba(0, 0, 0, 0.8);
+  text-align: center;
+}
+
 h3 {
   margin-left: 30%;
   margin-right: 30%;
@@ -28,6 +44,11 @@ img {
   margin-right: 10px;
   float: left;
   background-size: 50px 50px;
+}
+
+.slides {
+  border: 5px solid red;
+  border-radius: 6px;
 }
 
 nav {
